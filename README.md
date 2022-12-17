@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Matt
 
-- 🔭 I’m currently working on Minecraft Services
+- 🔭 I’m currently working on getting radiant rank 💀
 - 🌱 I write in Java and know the basics of C++ and Python
 - 📫 How to reach me: Discord, if you can find it :)
 - 😄 Pronouns: He/Him
