@@ -1,9 +1,9 @@
-### Hi there 👋, I'm Matt
+### Hi there 👋, I'm Matt / Takunashi
 
-- 🔭 I’m currently working on getting radiant 💀
-- 🌱 I write in Java and know the basics of C++ and Python
-- 📫 How to reach me: Discord, if you can find it :)
+- 🔭 I’m work on VRChat avis and worlds 💀
+- 🌱 I write in Java, C++/C#, WebDEV
+- 📫 How to reach me: disc("goxlr")
 - 😄 Pronouns: He/Him
 
-I'm a Java Developer, I reverse engineer java software at times and I also enjoy finding exploits and bugs!
-I used to develop minecraft clients and plugins but now my main priority is beta testing and exploiting ;)
+I'm used to be a Java Developer and used to reverse engineer java software at time. I also enjoy finding exploits and bugs!
+I used to develop minecraft clients and plugins but now my hobby is mainly playing VR games ;)
