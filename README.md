@@ -5,5 +5,5 @@
 - 📫 How to reach me: disc("goxlr")
 - 😄 Pronouns: He/Him
 
-I'm used to be a Java Developer and used to reverse engineer java software at time. I also enjoy finding exploits and bugs!
+I used to be a Java Developer and used to reverse engineer java programs. I also enjoy finding exploits and bugs!
 I used to develop minecraft clients and plugins but now my hobby is mainly playing VR games ;)
