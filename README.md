@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Matt / Takunashi
 
-- 🔭 I’m work on VRChat avis and worlds 💀
-- 🌱 I write in Java, C++/C#, WebDEV
-- 📫 How to reach me: disc("goxlr")
+- 🔭 I worked on VRChat avis and worlds 💀
+- 🌱 I code in Java, C++/C#, anything web dev
+- 📫 Don't text me, i don't like human interaction
 - 😄 Pronouns: He/Him
 
 I used to be a Java Developer and used to reverse engineer java programs. I also enjoy finding exploits and bugs!
